@@ -1,2 +1,2 @@
 Hello my name is Panee Sujinda
-สวัสดีค่ะ ดิฉันชื่อพาณี สุจินดา
+from chaingrai
